@@ -4,6 +4,12 @@ title: ""
 
 ## **Research Interests**
 
+<style type="text/css">
+  body{
+  font-size: 15pt;
+}
+</style>
+
 <img src="Krat1.jpg" align="right" width="400px"/>
 
 

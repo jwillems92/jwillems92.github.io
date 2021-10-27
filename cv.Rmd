@@ -2,6 +2,12 @@
 title: ""
 ---
 
+<style type="text/css">
+  body{
+  font-size: 15pt;
+}
+</style>
+
 ## **Education**
 **Ph.D. Natural Resources & Environmental Studies**: 2021 - Present  
 University of New Hampshire | Durham, NH
